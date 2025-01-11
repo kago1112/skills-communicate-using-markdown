@@ -10,4 +10,4 @@ vfvdfvdfvd
 
 
 
----dodanie różnych nagłowków i tekstów---
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
